@@ -1,5 +1,5 @@
 def upperator(value):
-    """делает все буквы заглавными """
+    """делает все буквы ЗАГЛАВНЫМИ"""
     return value.upper()
 
 def titleator(value):
