@@ -1,5 +1,5 @@
 def upperator(value):
-    """функция делает все буквы в строке заглавными"""
+    """функция делает все буквы заглавными"""
     return value.upper()
 
 def titleator(value):
